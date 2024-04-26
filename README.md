@@ -1,3 +1,11 @@
+# Requirements
+
+.env
+
+```
+MONGO_URL=url
+```
+
 # To run the project, follow the steps below:
 
 ```
